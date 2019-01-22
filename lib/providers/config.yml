@@ -1,0 +1,7 @@
+---
+  cloudinary:
+    cloud_name: "dtzfcwdjt"
+    api_key: "374299512937588"
+    api_secret: "NKGoGQ-hncx0UwUOgZ9Hjm1ksdQ"
+    secure: true
+    cdn_subdomain: true
